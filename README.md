@@ -65,7 +65,7 @@
   ABOUT ME
 </h1>
 <div align="center">
-<img width="130" height="150" src="https://raw.githubusercontent.com/ossamamehmood/ossamamehmood/main/assets/icons/about.png" />
+<img width="130" height="150" src="./assets/about.png" />
   
 Started my career at the age of Twenty (20) as a Developer. I have four (2) plus years of hands-on experience gained by doing freelance and internships🎉.
 
