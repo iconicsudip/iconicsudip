@@ -61,9 +61,13 @@
 </tr> 
 </table>
 
-<h1 align="center">
-  ABOUT ME
-</h1>
+<hr/>
+<div align="center">
+	
+## About Me
+
+</div>
+
 <div align="center">
 <img width="130" height="150" src="./assets/about.png" />
   
@@ -91,6 +95,9 @@ Started my career at the age of Twenty (20) as a Developer. I have four (2) plus
   ![](https://komarev.com/ghpvc/?username=iconicsudip&color=blueviolet&label=PROFILE+VIEWS)
 
 <hr/>
+	
+## GitHub Stats
+	
 <p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=iconicsudip&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=iconicsudip&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
