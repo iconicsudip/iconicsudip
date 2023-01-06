@@ -118,4 +118,6 @@ Started my career at the age of Twenty (20) as a Developer. I have four (2) plus
 
 ![snake gif](https://github.com/iconicsudip/iconicsudip/blob/output/github-contribution-grid-snake.gif)
 
+<img alt="" style="{max-height: 0px}" src="./assets/ending.svg">
+
 </div>
