@@ -5,7 +5,6 @@
   <img alt="" style="{max-height: 0px}" src="./assets/myself.jpg">
 </p>
 
-</div>
 
 <table width="100%">  
 <tr align="center">  
@@ -62,13 +61,10 @@
 </table>
 
 <hr/>
-<div align="center">
 	
 ## About Me
 
-</div>
 
-<div align="center">
 <img width="130" height="150" src="./assets/about.png" />
   
 Started my career at the age of Twenty (20) as a Developer. I have four (2) plus years of hands-on experience gained by doing freelance and internships🎉.
@@ -82,11 +78,10 @@ Started my career at the age of Twenty (20) as a Developer. I have four (2) plus
 ✔ Got TCS Excellence Honor for having best performance in team 🎩
 
 ✔ Team management Skills, Time Management Skills, Quick Learner 🎮
- </div>
+
  
  
 <!--  github views  -->
-<div align="center">
 
   <a href="https://sudip.ml" target="_blank">
      <img height="300" src="./assets/launch.svg"/>
