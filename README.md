@@ -84,7 +84,7 @@ Started my career at the age of Twenty (20) as a Developer. I have four (2) plus
 <!--  github views  -->
 <div align="center">
 
-  <a href="https://sudip.ml">
+  <a href="https://sudip.ml" target="_blank">
      <img height="300" src="./assets/launch.svg"/>
   </a>
 
