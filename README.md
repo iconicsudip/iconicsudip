@@ -106,8 +106,16 @@ Started my career at the age of Twenty (20) as a Developer. I have four (2) plus
 
 <hr/>
 
-## GitHub Trophy
+## GitHub Trophies
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=iconicsudip&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr/>
+
+## GitHub Contributions
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iconicsudip&theme=material-palenight&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![snake gif](https://github.com/iconicsudip/iconicsudip/blob/output/github-contribution-grid-snake.gif)
 
 </div>
