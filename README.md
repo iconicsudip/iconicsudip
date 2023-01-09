@@ -112,7 +112,7 @@ Started my career at the age of Twenty (20) as a Developer. I have four (2) plus
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iconicsudip&theme=material-palenight&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/iconicsudip/iconicsudip/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/iconicsudip/iconicsudip/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img alt="" style="{max-height: 0px}" src="./assets/ending.svg">
 
