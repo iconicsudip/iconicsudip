@@ -97,6 +97,8 @@ Started my career at the age of Twenty (20) as a Developer. I have four (2) plus
 <p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=iconicsudip&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=iconicsudip&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="400px" src="https://raw.githubusercontent.com/iconicsudip/github_stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img width="400px" src="https://raw.githubusercontent.com/iconicsudip/github_stats/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
   
 
