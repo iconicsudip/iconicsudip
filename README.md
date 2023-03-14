@@ -1,8 +1,8 @@
 <div align="center">
   
 <p align="center">
-  <img src="./assets/hello-unscreen.gif"/>
-  <img alt="" style="{max-height: 0px}" src="./assets/header.png">
+<!--   <img src="./assets/hello-unscreen.gif"/>
+  <img alt="" style="{max-height: 0px}" src="./assets/header.png"> -->
   <img alt="" style="{max-height: 0px}" src="./assets/myself.jpg">
 </p>
 
